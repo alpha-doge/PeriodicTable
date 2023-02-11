@@ -1,0 +1,48 @@
+
+
+tr   {
+    text-align: center;
+    font-family: courier;
+    font-size: 200%;
+    font-weight: 550;
+}
+
+.Noble {
+   background-color: #c33842;
+}
+
+.RNmetals {
+    background-color: #99d2feb6;
+}
+
+.Metalloids {
+    background-color: #d8a884;
+}
+
+.Ametals {
+    background-color: #60ccf3;
+}
+
+.PTMetals {
+    background-color: #6e9c71;
+}
+
+.AEMetals {
+    background-color: #c32e39;
+}
+
+.TMetals {
+    background-color: #435fc6;
+}
+
+.Unknownproperties {
+    background-color: #46474c;
+}
+
+.Lanthanides {
+    background-color: #0097da;
+}
+
+.Actinides {
+    background-color: #a93b2b;
+}
